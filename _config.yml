@@ -53,7 +53,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "evans_hall.png"
 heroTitle: "YBlockchain"
-eventDate: "September - November, 2014"
+eventDate: "April 2019"
 heroButtons:
  - {permalink: "/#tickets", text: "Buy tickets"}
 
