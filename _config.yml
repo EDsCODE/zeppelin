@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
+title: "YBlockchain"
 email: "devfest@gdg.org.ua"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: "/zeppelin"
@@ -21,11 +21,11 @@ googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
+organizerName: "Yale Blockchain"
 organizerAlternateName: "Google Developer Group Lviv"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
 organizerEmail: "lviv@gdg.org.ua"
-organizerLogo: "/img/seo/organizer-logo.png"
+organizerLogo: "/img/seo/ybiLogo.png"
 organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
@@ -43,44 +43,37 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
-heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
+heroImage: "evans_hall.png"
+heroTitle: "YBlockchain"
 eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-typeoutFallback: "Season"
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "About Yale Blockchain"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
  - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
-# Statistic Block
-statisticBlockImage: "statistic.jpg"
-statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+# # Statistic Block
+# statisticBlockImage: "statistic.jpg"
+# statisticBlock:
+#  - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+#  - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
+#  - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+#  - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
-# Latest News Block
-latestNewsTitle: "Latest news"
+# # Latest News Block
+# latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -92,11 +85,10 @@ rockstarSpeakersButtonText: "See all speakers"
 locationBlockTitle: "Location"
 eventLocationName: "Conference Hall"
 eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
-eventAddressLocalityRegion: "Lvivska"
-eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
+eventStreetAddress: "165 Whitney Ave"
+eventAddressLocality: "New Haven"
+eventPostalCode: "06511"
+eventAddressCountry: "United States"
 eventStartTime: "2014-10-25T10:00"
 eventDoorTime: "09:00"
 eventEndTime: "2014-10-25T20:00"
