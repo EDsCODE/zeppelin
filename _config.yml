@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "YBlockchain"
 email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
+description: "Yale's first blockchain conference focused on social, economic, and political implications of blockchain"
 baseurl: ""
 url: "http://gdg-x.github.io"
 permalink: "/blog/:title"
