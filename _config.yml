@@ -24,7 +24,7 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 organizerName: "Yale Blockchain"
 organizerAlternateName: "Google Developer Group Lviv"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerEmail: "yblockchain2019@gmail.com"
 organizerLogo: "/img/seo/ybiLogo.png"
 organizerLink: "http://lviv.gdg.org.ua/"
 
@@ -73,7 +73,7 @@ aboutBlock:
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
+rockstarSpeakersTitle: "Speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
@@ -161,13 +161,9 @@ ticketsOffers:
 
 footerBlocks:
  -
-  title: "Links"
-  links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
- -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:yblockchain2019@gmail.com", text: "yblockchain2019@gmail.com"}
 
 # Blog
 blogTitle: "Latest news"
