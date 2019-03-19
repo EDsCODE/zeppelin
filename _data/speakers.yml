@@ -14,3 +14,39 @@
   title: "Lecturer"
   thumbnailUrl: JeffBandman.jpg
   rockstar: true
+
+- 
+  id: 4
+  name: "John"
+  surname: "D'Agostino"
+  company: "DMS Governance"
+  title: "Managing Director"
+  thumbnailUrl: JohnDagostino.jpg
+  rockstar: false
+
+- 
+  id: 5
+  name: "Guido"
+  surname: "Molinari"
+  company: "Prysm Group"
+  title: "Managing Partner"
+  thumbnailUrl: Guidemolinari.jpg
+  rockstar: false
+
+- 
+  id: 6
+  name: "Jesse"
+  surname: "Uzzell"
+  company: "Climate Futures/1PLANET"
+  title: "CEO"
+  thumbnailUrl: JesseUzzell.jpeg
+  rockstar: false
+
+- 
+  id: 7
+  name: "Frances"
+  surname: "Stacy"
+  company: "Optimal Capital"
+  title: "Director of Portfolio Strategy"
+  thumbnailUrl: francesstacy.jpg
+  rockstar: false
