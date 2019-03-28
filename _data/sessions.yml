@@ -15,7 +15,7 @@
   service: true
 -
   id: 002
-  title: "The Economic Implications of Blockchain"
+  title: "The Economic Implications of Blockchain: John D'Agostino & Frances Stacey"
   service: true
 -
   id: 003
@@ -23,11 +23,11 @@
   service: true
 -
   id: 004
-  title: "Economic Panel // Professor Jeffery Bandman"
+  title: "Economic Panel"
   service: true
 -
   id: 005
-  title: "The Social Implications of Blockchain"
+  title: "The Social Implications of Blockchain: Jeff Bandman"
   service: true
 -
   id: 006
@@ -39,7 +39,7 @@
   service: true
 -
   id: 008
-  title: "The Political Implications of Blockchain // Patrick Bryne"
+  title: "The Political Implications of Blockchain: Patrick Bryne"
   service: true
 -
   id: 009
