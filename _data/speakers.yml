@@ -69,16 +69,7 @@
   title: "Director of Business Development"
   thumbnailUrl: jennapilgrim.png
   rockstar: false
-
-- 
-  id: 11
-  name: "Eric"
-  surname: "Ervin"
-  company: "Blockforce Capital"
-  title: "CEO"
-  thumbnailUrl: ericervin.jpeg
-  rockstar: false
-
+  
 - 
   id: 12
   name: "Anna"
