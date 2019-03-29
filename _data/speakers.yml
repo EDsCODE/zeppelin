@@ -51,19 +51,11 @@
   thumbnailUrl: francesstacy.jpg
   rockstar: false
 
-- 
-  id: 8
-  name: "Laura"
-  surname: "Shin"
-  company: "Unchained Podcast"
-  title: "Crypto Journalist"
-  thumbnailUrl: laurashin.png
-  rockstar: false
 
 - 
   id: 9
   name: "Dela"
-  surname: "Atanda"
+  surname: "Atanda (Moderator)"
   company: "metaMe"
   title: "CEO"
   thumbnailUrl: delaatanda.png
@@ -86,3 +78,23 @@
   title: "CEO"
   thumbnailUrl: ericervin.jpeg
   rockstar: false
+
+- 
+  id: 12
+  name: "Anna"
+  surname: "Irrera (Moderator)"
+  company: "Reuters"
+  title: "Fintech Correspondent"
+  thumbnailUrl: annairrera.jpg
+  rockstar: false
+
+- 
+  id: 13
+  name: "Santiago"
+  surname: "Ibañez"
+  company: "Bild"
+  title: "COO"
+  thumbnailUrl: santiagoibanez.jpg
+  rockstar: false
+
+
