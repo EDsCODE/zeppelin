@@ -26,7 +26,7 @@
 -
   id: 004
   title: "Economic Panel"
-  speakers: [5, 10, 11, 8]
+  speakers: [5, 10]
 -
   id: 005
   title: "The Social Implications of Blockchain: Jeff Bandman"
@@ -38,7 +38,7 @@
 -
   id: 007
   title: "Political Panel"
-  service: true
+  speakers: [7]
 -
   id: 008
   title: "The Political Implications of Blockchain: Patrick Bryne"
