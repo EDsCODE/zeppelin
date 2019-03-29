@@ -13,26 +13,28 @@
   id: 001
   title: "Opening Speech & Blockchain Overview"
   service: true
+  description: "YBI gives opening statement and overview of Blockchain"
 -
   id: 002
   title: "The Economic Implications of Blockchain: John D'Agostino & Frances Stacey"
-  service: true
+  speakers: [4, 7]
 -
   id: 003
   title: "Lunch / Networking"
   service: true
+  description: "Talk with speakers and attendees"
 -
   id: 004
   title: "Economic Panel"
-  service: true
+  speakers: [5, 10, 11, 8]
 -
   id: 005
   title: "The Social Implications of Blockchain: Jeff Bandman"
-  service: true
+  speakers: [3]
 -
   id: 006
   title: "Social Panel"
-  service: true
+  speakers: [6, 9]
 -
   id: 007
   title: "Political Panel"
@@ -40,7 +42,7 @@
 -
   id: 008
   title: "The Political Implications of Blockchain: Patrick Bryne"
-  service: true
+  speakers: [2]
 -
   id: 009
   title: "Closing Remarks & Happy Hour"

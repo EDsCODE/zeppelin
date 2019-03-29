@@ -50,3 +50,39 @@
   title: "Director of Portfolio Strategy"
   thumbnailUrl: francesstacy.jpg
   rockstar: false
+
+- 
+  id: 8
+  name: "Laura"
+  surname: "Shin"
+  company: "Unchained Podcast"
+  title: "Crypto Journalist"
+  thumbnailUrl: laurashin.png
+  rockstar: false
+
+- 
+  id: 9
+  name: "Dela"
+  surname: "Atanda"
+  company: "metaMe"
+  title: "CEO"
+  thumbnailUrl: delaatanda.png
+  rockstar: false
+
+- 
+  id: 10
+  name: "Jenna"
+  surname: "Pilgrim"
+  company: "Bloq, Inc."
+  title: "Director of Business Development"
+  thumbnailUrl: jennapilgrim.png
+  rockstar: false
+
+- 
+  id: 11
+  name: "Eric"
+  surname: "Ervin"
+  company: "Blockforce Capital"
+  title: "CEO"
+  thumbnailUrl: ericervin.jpeg
+  rockstar: false
