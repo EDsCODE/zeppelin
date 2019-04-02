@@ -88,4 +88,22 @@
   thumbnailUrl: santiagoibanez.jpg
   rockstar: false
 
+- 
+  id: 14
+  name: "Peter"
+  surname: "Shanley"
+  company: "BRD Wallet"
+  title: "Head of Business Development"
+  thumbnailUrl: petershanley.jpg
+  rockstar: false
+
+- 
+  id: 15
+  name: "Elizabeth"
+  surname: "Renieris"
+  company: "hackylawyer"
+  title: "Technology & Privacy Lawyer"
+  thumbnailUrl: elizabethrenieris.jpg
+  rockstar: false
+
 
