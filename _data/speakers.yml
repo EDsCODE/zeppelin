@@ -54,8 +54,8 @@
 
 - 
   id: 9
-  name: "Dela"
-  surname: "Atanda (Moderator)"
+  name: "Dele"
+  surname: "Atanda"
   company: "metaMe"
   title: "CEO"
   thumbnailUrl: delaatanda.png
@@ -105,5 +105,34 @@
   title: "Technology & Privacy Lawyer"
   thumbnailUrl: elizabethrenieris.jpg
   rockstar: false
+
+- 
+  id: 16
+  name: "Leigh"
+  surname: "Cuen (Moderator)"
+  company: "Coindesk"
+  title: "Author"
+  thumbnailUrl: leighcuen.jpeg
+  rockstar: false
+
+- 
+  id: 17
+  name: "Jamiel"
+  surname: "Shiekh"
+  company: "ChainHaus"
+  title: "CEO"
+  thumbnailUrl: jamielsheikh.jpg
+  rockstar: false
+
+- 
+  id: 18
+  name: "Davi"
+  surname: "Lemos"
+  company: "Voluntoken"
+  title: "Founder"
+  thumbnailUrl: davilemos.jpg
+  rockstar: false
+
+
 
 
