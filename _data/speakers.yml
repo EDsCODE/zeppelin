@@ -53,7 +53,7 @@ Guido holds a BA in International Economics & Management from Bocconi University
 - 
   id: 7
   name: "Frances"
-  surname: "Stacey"
+  surname: "Stacy"
   company: "Optimal Capital"
   title: "Director of Portfolio Strategy"
   thumbnailUrl: francesstacy.jpg
@@ -161,6 +161,15 @@ Jamiel enjoys coding in over 8 languages, travel and the elegant nuances of MMA.
   company: "Voluntoken"
   title: "Founder"
   thumbnailUrl: davilemos.jpg
+  rockstar: false
+
+- 
+  id: 19
+  name: "Diana"
+  surname: "Zalles"
+  company: "Virtual Force"
+  title: "Business Development Manager"
+  thumbnailUrl: dianazalles.jpeg
   rockstar: false
 
 
