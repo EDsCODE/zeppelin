@@ -3,4 +3,5 @@
   elements: 
     - {name: "Tsai City", description: "Yale's hub of Entrepenurship and Innovation", link: "https://www.city.yale.edu/", imageUrl: "tsai.png"}
     - {name: "voluntoken", link: "https://voluntoken.com/", imageUrl: "voluntoken.png"}
-    - {name: "Tsai City",  link: "https://climatefutures.io/", imageUrl: "climatefutures.png"}
+    - {name: "Climate Futures",  link: "https://climatefutures.io/", imageUrl: "climatefutures.png"}
+    - {name: "ChainHaus",  link: "http://overridelabs.com/", imageUrl: "Chainhaus.jpg"}
