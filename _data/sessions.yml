@@ -16,7 +16,7 @@
   speakers: [17, 18]
 -
   id: 002
-  title: "The Economic Implications of Blockchain: John D'Agostino & Frances Stacey"
+  title: "The Economic Implications of Blockchain: John D'Agostino & Frances Stacy"
   speakers: [4, 7]
 -
   id: 003
@@ -34,7 +34,7 @@
 -
   id: 006
   title: "Social Panel"
-  speakers: [6, 13, 14, 16]
+  speakers: [6, 13, 14, 16, 21]
 -
   id: 007
   title: "Political Panel"

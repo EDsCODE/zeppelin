@@ -67,11 +67,9 @@ Guido holds a BA in International Economics & Management from Bocconi University
   company: "metaMe"
   title: "CEO"
   thumbnailUrl: delaatanda.png
-  bio: "Dele Atanda is an acclaimed digital visionary, a serial entrepreneur and CEO of metaMe a social enterprise introducing the world’s first ‘Self-Sovereign AI’ and ‘Universal Smart Data Marketplace.’ Atanda is a Fintech and crypto-economy theorist, a cyber visionary and an advocate of using technology to form a more compassionate, empathetic and human centered world.  Supporting this is his belief that data - and in particular the ethical use of personal data, can revolutionize society and transform the world. 
+  bio: "Dele Atanda is an acclaimed digital visionary and serial entrepreneur. He is CEO of metaMe, the world’s first Self-Sovereign AI and Universal Smart Data Marketplace, and founder of The Internet.Foundation, an NGO dedicated to advancing the ethical use of data in commerce while establishing digital rights as an extension of human rights. Atanda is a celebrated innovator having led digital innovations for FTSE10 and Fortune 100 companies that have become the gold standard for digital engagement within their sectors. Prior to metaMe he led IBM’s Automotive, Aerospace and Defense sector as Chief Digital Innovation Officer.
 
-Atanda is a passionate advocate of digital human rights and is founder of The Internet.Foundation, dedicated to establishing universal digital rights as a natural extension of human rights and advancing the ethical use of data in commerce. Atanda is a celebrated innovator having led digital for some of the world's biggest brands and having developed enterprise solutions for FTSE 10 and Fortune 100 companies that have become the gold standards for engagement within their sectors. Atanda previously led IBM’s Automotive, and Aerospace sector as Digital Innovation Officer and is a world-renowned thought leader on digital culture. 
-
-He has been a pioneering voice on the emergence of web 3.0 technologies and their impact on society most notably with his category best-selling Digitterian Tsunami: Web 3.0 and the Rise of the N.E.O Citizen published in 2012. His latest innovation – mPods a new class of Universal Smart Data asset that merge smart contracts with data assets - are set to revolutionize the personal data and blockchain industries.  
+Atanda has been a pioneering voice on the emergence of web 3.0 technologies, notably with his category best-selling The Digitterian Tsunami: Web 3.0 and the Rise of the N.E.O Citizen published in 2013. He is an avid advocate of the potential of decentralized technologies to advance humanity while positively and dramatically transforming society.
 "
   rockstar: false
 
@@ -167,8 +165,8 @@ Jamiel enjoys coding in over 8 languages, travel and the elegant nuances of MMA.
   id: 19
   name: "Diana"
   surname: "Zalles"
-  company: "Virtual Force"
-  title: "Business Development Manager"
+  company: "Yale OpenLab"
+  title: "Advisor"
   thumbnailUrl: dianazalles.jpeg
   rockstar: false
 
@@ -180,6 +178,16 @@ Jamiel enjoys coding in over 8 languages, travel and the elegant nuances of MMA.
   title: "Partner"
   bio: "At CryptoOracle, a New York-based investment and advisory services firm focused on the crypto economy, James Dix is a venture partner, leading the media technology vertical. Dix previously covered the media sector at Deutsche Bank in New York, as senior research analyst and as associate, and at Wedbush Securities in Los Angeles, as senior research analyst. Dix was rated #2 Stock Picker in U.S. Media for 2016 by Thomson Reuters. Prior to Deutsche Bank, Dix was an associate in the corporate department at McDermott, Will & Emery in Chicago and senior counsel in the Securities and Exchange Commission’s Division of Enforcement in Washington, D.C. Dix holds a B.A. in Economics (Phi Beta Kappa) and an M.B.A. (Beta Gamma Sigma) from the University of Chicago, and a J.D. from the University of Virginia. Dix is a CFA charterholder."
   thumbnailUrl: jamesdix.jpg
+  rockstar: false
+
+- 
+  id: 21
+  name: "Connor"
+  surname: "Dempsey"
+  company: "Circle"
+  title: "Content writer"
+  bio: "Connor works for Circle, which is a global cryptofinance company that aims to democratize finance by building on the open, global infrastructure of crypto-assets and blockchain technology. He got his start in the industry writing about the potential of blockchain technology in 2017, where his educational materials were circulated widely across the internet and read all over the world. He eventually found his way to Circle, where he continues to write educational material on crypto-assets and blockchain technology, contributes to Circle's research arm (Circle Research) and leads their social media efforts."
+  thumbnailUrl: connordempsey.jpg
   rockstar: false
 
 
