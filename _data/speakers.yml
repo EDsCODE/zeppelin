@@ -48,6 +48,7 @@ Guido holds a BA in International Economics & Management from Bocconi University
   company: "Climate Futures/1PLANET"
   title: "CEO"
   thumbnailUrl: JesseUzzell.jpeg
+  bio: 'Jesse Uzzell helps businesses develop and meet their climate action goals, and he has worked with climate projects and carbon finance since 1998. He founded Climate Futures in 2005 and has deep experience along the entire value-chain of carbon reducing projects. He currently leads the deployment of the 1PLANET blockchain-based platform. 1PLANET empowers individuals and SMEs to take climate action through their daily activities, while creating more climate friendly e-commerce services. B.Sc. in Aerospace Engineering from Texas A&M University & M.Sc. in Environmental Engineering from the Royal Institute of Technology (KTH), Sweden.'
   rockstar: false
 
 - 
@@ -190,6 +191,14 @@ Jamiel enjoys coding in over 8 languages, travel and the elegant nuances of MMA.
   thumbnailUrl: connordempsey.jpg
   rockstar: false
 
-
+- 
+  id: 22
+  name: "Tanjila"
+  surname: "Islam"
+  company: "TradeFlo"
+  title: "CEO"
+  bio: "Tanjila Islam is the CEO & Founder of TradeFlo, an end-to-end blockchain international trade facilitation platform for vendor verification, merchandise authentication, and trade finance.  A global trade and economic development expert, Tanjila has designed and managed trade programs for the U.S. Agency for International Development and the World Bank in emerging markets such as Afghanistan, Bangladesh, and Indonesia. She is also the CEO & Founder of TigerTrade, a B2B marketplace for the international trade of excess fashion inventory. Tanjila is an Adjunct Professor at the Fashion Institute of Technology, where she teaches courses on International Trade and Global Sourcing. She is an avid global adventurer, dancer, and meditator, with a deep interest in a variety of spiritual and energetic healing modalities.  Tanjila has a B.A. from Columbia College, M.I.A. in International Economic Policy from Columbia University’s School of International & Public Affairs, and M.A. from New York University.  She speaks Arabic, Bengali, English, and Spanish. "
+  thumbnailUrl: tanjilaislam.jpg
+  rockstar: false
 
 
